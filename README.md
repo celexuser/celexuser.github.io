@@ -6,7 +6,7 @@
 <h1 align="center">MNv2</h1>
 <p align="center">Unblocker Reimagined.</p>
 
-This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on Discord at `mn_official` and we can talk! If you're looking for the link, click [here](https://mnv2.netlify.app).
+This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on Discord at `mn_official` and we can talk! If you're looking for the link, click [here](https://mnv2-dev.github.io/mnv2/).
 
 > **Note**
 > **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give me a star.**
@@ -20,12 +20,10 @@ This is the GitHub repo which is used to host the website. If you want to use th
 - Easy to use
 - Light on host resources 
 - And so much more!
+- New Theme
 
 > **Note**
 > If you have any problems please open an issue, so we can fix it ASAP!
-
-## Game Files
-Due to the amount of games, all of the games have been moved to a [new repo](https://github.com/3kh0/3kh0-Assets).
 
 ## Host the website
 
@@ -40,9 +38,6 @@ You can host our website on a cloud hosting solution like Replit or Render here.
 [![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F3kh0%2F3kh0.github.io) 
 [![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/3kh0/3kh0.github.io)
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/3kh0/3kh0.github.io)
-
-## Docs
-The official 3kh0 docs can be found [here](https://github.com/3kh0/3kh0.github.io/wiki). If you want to make a theme this is the place!
 
 ## Contributors
 
@@ -86,12 +81,3 @@ http-server
 
 > **Warning**
 > Cloning a repository with Git removes everything in the folder you do it in. If you're not careful, you can delete your hard drive, so please do not do this unless you know what you're doing.
-
-## Previous versions of 3kh0
-
-Here are some of the previous versions of this project. To give you a
-sense, this is v4 for 3kh0
-
-- [Website v1](https://github.com/3kh0/website-v1)
-- [Website v2](https://github.com/3kh0/website-v2)
-- [Website v3](https://github.com/3kh0/website-v3)
