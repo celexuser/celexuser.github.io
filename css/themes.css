@@ -16,7 +16,7 @@ body[theme="liminality"] {
   --background: black;
   --theme: white;
   --text: white;
-  --text-secondary: white;
+  --text-secondary: black;
 }
 body[theme="light"] {
   --background: white;
