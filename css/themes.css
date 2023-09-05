@@ -12,7 +12,12 @@ body[theme="poop"] {
   --text: white;
   --text-secondary: white;
 }
-
+body[theme="Liminality (Old)"] {
+  --background: black;
+  --theme: white;
+  --text: white;
+  --text-secondary: white;
+}
 body[theme="light"] {
   --background: white;
   --theme: #4caf50;
