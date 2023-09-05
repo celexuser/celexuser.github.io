@@ -1,5 +1,4 @@
 /*-------------------- Themes --------------------*/
-
 body[theme="default"] {
   --background: #1c1c1c;
   --theme: #FF0079;
@@ -13,7 +12,27 @@ body[theme="poop"] {
   --text-secondary: white;
 }
 body[theme="liminality"] {
-  --background: black;
+  --background: linear-gradient(45deg, #aa00ff, #9000ff, #ffef00, #00e60e, #004cff, #9600ff, #ff00a4);
+        color: #000;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    @keyframes rainbow {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
   --theme: white;
   --text: white;
   --text-secondary: black;
