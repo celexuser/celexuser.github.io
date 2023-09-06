@@ -6,7 +6,7 @@
 <h1 align="center">MNv2</h1>
 <p align="center">Unblocker Reimagined.</p>
 
-This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on Discord at `mn_official` and we can talk! If you're looking for the link, click [here](https://mnv2-dev.github.io/mnv2/).
+This is the GitHub repo which is used to host the website. If you want to use the games on here on your website, please message me on Discord at `mn_official` and we can talk! If you're looking for the link, click [here](https://mnv2.github.io/).
 
 > **Note**
 > **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give me a star.**
