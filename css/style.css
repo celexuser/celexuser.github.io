@@ -35,7 +35,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: var('https://rare-gallery.com/thumbnail/60097-Abstract-Glass-4k-Ultra-HD-Wallpaper.png');
+  background: var(--background);
 }
 
 @keyframes breathing {
